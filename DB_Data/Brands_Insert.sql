@@ -1,0 +1,10 @@
+insert into Brands (Name) values ('Dell');
+insert into Brands (Name) values ('HP');
+insert into Brands (Name) values ('Apple');
+insert into Brands (Name) values ('Lenovo');
+insert into Brands (Name) values ('Asus');
+insert into Brands (Name) values ('Acer');
+insert into Brands (Name) values ('Microsoft');
+insert into Brands (Name) values ('Samsung');
+insert into Brands (Name) values ('Razer');
+insert into Brands (Name) values ('MSI');

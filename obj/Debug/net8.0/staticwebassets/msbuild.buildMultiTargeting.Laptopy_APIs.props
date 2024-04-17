@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Laptopy_APIs.props" />
+</Project>
